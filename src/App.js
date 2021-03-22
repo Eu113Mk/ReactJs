@@ -23,6 +23,7 @@ function App() {
       <Container fluid="md" className="container">
         <Row>
           <Col>
+            <h1>Welcome</h1>
             <h2>Sign Up...</h2>
           </Col>
         </Row>
